@@ -1,0 +1,3 @@
+opencv-python-headless  
+pip install opencv-contrib-python
+streamlit
